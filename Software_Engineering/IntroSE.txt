@@ -1,0 +1,20 @@
+IntroSE_p1
+
+Why SE is important?
+ Software systems are abstract and intangible
+
+1. Introduction to Software Engineering
+ what is SW engineering?
+  Software engineering is an engineering discipline which is concerned with all aspects of software production.
+ 
+ Essential software
+  maintainability, dependability and security, efficiency and acceptabillity
+ 
+ The high-level activities
+  specification, development, validation and evolution
+
+ The fundamental notions
+  universally applicable to all types of system development
+
+ Software engineers have responsibilities to the engineering  profession and society.
+

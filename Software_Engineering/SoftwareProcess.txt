@@ -1,0 +1,60 @@
+Software Processes 
+
+ Software process models
+ 
+  The software process
+   specification, design and implementation, Validation, Evolution
+
+  plan-driven processes
+   processes where all of the process  activities are planned in advance and progress is measured  against this plan.
+
+  agile processes
+   planning is incremental and it is easier to  change the process to reflect changing customer requirements.
+
+  The waterfall model - Plan-driven model. Separate and distinct phases of specification and  development.
+
+  phases 
+
+Requirements analysis and definition
+System and software design
+Implementation and unit testing
+Integration and system testing
+Operation and maintenance
+
+  problems
+   프로젝트를 서로 다른 단계로 유연하게 분할하면 변화하는 고객 요구사항에 대응하기가 어렵다
+	-> 큰 시스템 개발 프로젝트에 사용된다.
+
+
+  Incremental development - Specification, development and validation are interleaved. May be plan-  driven or agile.
+
+  benefits
+고객에 대한 요구사항이 계속 변화하는데 이를 수용하는 비용이 적어 피드백을 수용하기 수월하다.
+문서와 분석의 양이 워터풀모델보다는 적다.
+
+  problems
+가시적이지 못하다. – 문서나 그런게 없기때문
+관리자가 관리하기 위해 프로세스를 측정하려 할때 정기적인 산출이 필요하다
+시스템구조가 increment할때마다 성능이 저하된다(건물을 지을때 2층을 먼저 지어두고 나중에 3층을 올리는 느낌)
+ -> 처음에 2층 지을때 보다 비용이 더 들고 어려움
+
+
+  Reuse-oriented software engineering(integration and configuration)
+	- The system is assembled from existing components. May be plan-driven or  agile.
+   Stand-alone application systems 
+   Collections of objects 
+   Web services 
+  
+  Advantages
+재사용을 하니 cost와 risk가 줄어든다.
+배포가 빠르다
+  disadvantages
+요구사항을 고객에 맞출 수 없음.(타협이 필요함)
+재사용된 시스템에 대한 element에 대해 evolution할때 주도권이 낮아질 수 있음.
+
+
+ Process activities
+
+  Software specification
+   
+  
