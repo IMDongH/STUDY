@@ -1,0 +1,26 @@
+What is Big Data (Data Science)?
+Process and techniques to discover from  data answers or insights to solve a business  problem
+
+What are the application areas of Big Data?
+Business, Governance, Medicine, Security, Categorization and Summarization of Text
+
+What is the Big Data Process?
+Objective Setting
+Data Curation
+Data Inspection
+Data Preprocessing
+Data Analysis (Modeling)
+Evaluation of the Results
+Deployment
+
+What does Big Data require?
+Business needs
+Data
+Computers and software
+Team of trained people
+
+What technologies can be used for Big Data?
+data mining/machine learning
+
+Reality check
+People have to do all the work of data preprocessing,  before using the machine learning/deep learning  algorithms.
