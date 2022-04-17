@@ -1,0 +1,75 @@
+what is software engineering?
+	Software engineering is an engineering discipline which is concerned with all aspects of software production
+
+four fundamental activities in software porcesses
+	software specification, software design and implementation, software validation, software evolution
+
+system context
+	context models are used to illustrate the operatinal context of a system
+	- they show what lies outside the system boundaries
+
+	social and organisational concerns may affect the decision on where to position system boundaries
+	
+	architectural models show the system and its relationship with other systems.
+
+interaction model
+	modeling user interation is important as it helps to identify user requirements
+	
+	modeling system-to-system interaction highlights the communication problems that may arise
+
+	modeling component interaction helps us understand if a proposed system structure is likely to deliver
+	the requred system perfonrmance and dependability
+
+	use case diagrams and sequence diagrams may be used for interaction modeling
+	
+
+process of incremental development and delivery and what are the advantages of using incremental development and delivery
+
+	그림으로 단계 설명
+
+	advantages 
+	the cost of accommodating changes to customer requirements is reduced
+	it is easier to get customer feedback on development work that has been done
+	more rapid delivery and deployment of useful software to the customer is possible
+
+approaches we can user to reduce the costs of rework
+	Change anticipation : acticipate possible changes , porototype system may be developed to show som key features of the systrem to customer
+	
+	Change tolerance : incremental development. proposed changes may be implemented in increments that have not yet
+			been developed. if this is impossible then only a single increment bay have bbe altered to incorporate the change
+
+
+the principles agile methods lead to the accelerated development and deployment of soft ware
+	individual and interactions over processes and tools
+	working software over comprehensive documentation
+	customer collaboration over contract negotiation
+	responding to change over following a plan
+
+important characteristics of XP
+	user stories for specification : user requirements are expressed as user stories or scenarios
+	refactoring : it poroposes constant code improvement to make changes easier when they have to be implemented
+	test-driven development :writing tests before code clarifies the requirements to be implemented
+	pair programming : programmers sit together at the same computer to develop the soft ware
+
+examples of non functional requirements in Mentcare system
+	product requirement - 몇시부터 몇시까지는 작동이 가능해야한다, downtime이 5초이상 생기면 안된다
+	organizational requirement - 인증카드와 같은 것으로 인증이 가능해야한다
+	external requirement - 보안?
+	
+why it is important to make a distinction between developing the user requrements and system requirements
+	user requirement are intended to describe the system's functions and features from a user perspective 
+	and it is essential that users understand these requirements
+	
+	system requirement are much more detailed than the user requirements and are intended to be a precise specification fo the system
+	that may be part of a system contract
+
+plan- driven - this is a safety-critical system so requires a lot of up-front analysis before implementation
+incremental development - this is a system where requirements will change and there will be an extensive user interface components
+reuse-based approach - this is a asystem whose requirements are fairly well-known and which will be used in an
+			environment in confunction with lots of other systems such as a research grant management system
+
+
+
+
+주어진 요구사항이 functional한 요구사항인지 non-functional한 요구사항인지 판단
+sequence diagram 그리기
