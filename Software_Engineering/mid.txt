@@ -5,22 +5,18 @@ what is software engineering?
 four fundamental activities in software porcesses
 	software specification, software design and implementation, software validation, software evolution
 
-system context
-	context models are used to illustrate the operatinal context of a system
-	
-interaction model
-	modeling user interation is important as it helps to identify user requirements
-	
+essential attributes of good software
+	acceptability, dependability and security, efficiency, maintainability
 
 process of incremental development and delivery and what are the advantages of using incremental development and delivery
 
 	그림으로 단계 설명
 
 	advantages 
-	the cost of accommodating changes to customer requirements is reduced
-	it is easier to get customer feedback on development work that has been done
-	more rapid delivery and deployment of useful software to the customer is possible
-
+	the cost of accommodating changes to customer requirements is reduced  고객 요구사항의 변경 사항을 수용하는 비용이 절감됨
+	it is easier to get customer feedback on development work that has been done  완료된 개발 작업에 대한 고객 피드백을 받는 것이 더 쉽습니다.
+	more rapid delivery and deployment of useful software to the customer is possible  고객에게 유용한 소프트웨어를 보다 신속하게 전달하고 배포할 수 있습니다.
+ 
 approaches we can user to reduce the costs of rework
 	Change anticipation : acticipate possible changes , porototype system may be developed to show som key features of the systrem to customer
 	
@@ -48,17 +44,16 @@ examples of non functional requirements in Mentcare system
 why it is important to make a distinction between developing the user requrements and system requirements
 	user requirement are intended to describe the system's functions and features from a user perspective 
 	and it is essential that users understand these requirements
-	
-	system requirement are much more detailed than the user requirements and are intended to be a precise specification fo the system
-	that may be part of a system contract
+	사용자 요구사항은 사용자 관점에서 시스템의 기능 및 기능을 설명하기 위한 것이며 사용자가 이러한 요구사항을 이해하는 것이 필수적이다.
 
+	system requirement are much more detailed than the user requirements and are intended to be a precise specification for the system
+	that may be part of a system contract
+	시스템 요구사항은 사용자 요구사항보다 훨씬 더 상세하며 시스템 계약의 일부일 수 있는 시스템의 정확한 사양이 되기 위한 것이다.
 plan- driven - this is a safety-critical system so requires a lot of up-front analysis before implementation
 incremental development - this is a system where requirements will change and there will be an extensive user interface components
 reuse-based approach - this is a asystem whose requirements are fairly well-known and which will be used in an
 			environment in confunction with lots of other systems such as a research grant management system
 
-
-
-
 주어진 요구사항이 functional한 요구사항인지 non-functional한 요구사항인지 판단
 sequence diagram 그리기
+
