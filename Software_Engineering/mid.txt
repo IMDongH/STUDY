@@ -1,26 +1,15 @@
 what is software engineering?
 	Software engineering is an engineering discipline which is concerned with all aspects of software production
+	소프트웨어 공학은 소프트웨어 생산의 모든 측면을 다루는 공학 분야이다.
 
 four fundamental activities in software porcesses
 	software specification, software design and implementation, software validation, software evolution
 
 system context
 	context models are used to illustrate the operatinal context of a system
-	- they show what lies outside the system boundaries
-
-	social and organisational concerns may affect the decision on where to position system boundaries
 	
-	architectural models show the system and its relationship with other systems.
-
 interaction model
 	modeling user interation is important as it helps to identify user requirements
-	
-	modeling system-to-system interaction highlights the communication problems that may arise
-
-	modeling component interaction helps us understand if a proposed system structure is likely to deliver
-	the requred system perfonrmance and dependability
-
-	use case diagrams and sequence diagrams may be used for interaction modeling
 	
 
 process of incremental development and delivery and what are the advantages of using incremental development and delivery
@@ -39,7 +28,7 @@ approaches we can user to reduce the costs of rework
 			been developed. if this is impossible then only a single increment bay have bbe altered to incorporate the change
 
 
-the principles agile methods lead to the accelerated development and deployment of soft ware
+the principles agile methods lead to the accelerated development and deployment of software
 	individual and interactions over processes and tools
 	working software over comprehensive documentation
 	customer collaboration over contract negotiation
@@ -47,7 +36,7 @@ the principles agile methods lead to the accelerated development and deployment 
 
 important characteristics of XP
 	user stories for specification : user requirements are expressed as user stories or scenarios
-	refactoring : it poroposes constant code improvement to make changes easier when they have to be implemented
+	refactoring : it proposes constant code improvement to make changes easier when they have to be implemented
 	test-driven development :writing tests before code clarifies the requirements to be implemented
 	pair programming : programmers sit together at the same computer to develop the soft ware
 
